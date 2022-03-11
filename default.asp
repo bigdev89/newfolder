@@ -24,7 +24,7 @@ elseif(request.QueryString("page")="Login")then
 elseif(request.QueryString("page")="admin")then
 
 %>
-                        <!--#include file="src_top_bar/admin_login.asp"-->
+                        <!--#include file="startbootstrap-sb-admin-2-gh-pages/login/admin_login.asp"-->
 
                         <%
 elseif(request.QueryString("page")="admin_pro")then
